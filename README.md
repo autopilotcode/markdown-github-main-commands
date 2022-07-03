@@ -1,6 +1,4 @@
-# Markdown-main-commands
-
-#### Basics markdown use cases
+#### Basics markdown use cases (for Github)
 
 ***
 # Headers
