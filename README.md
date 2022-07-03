@@ -41,7 +41,6 @@ Combined highlightning *asterics or __underscores__.*
 ___
 
 # Links 
-#### (2 variants of creation)
 ```
 [This is an inline-style link to keepassxc.org](https://keepassxc.org/)
 
