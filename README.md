@@ -80,3 +80,40 @@ You can use [just link itself]
 [just link itself]: https://www.virustotal.com/gui/home/upload
 
 URL's will be shown as links. https://eraser.heidi.ie/
+___
+
+# Images
+```
+Favicon from 2_CSS_Confident project (hover over to see the alt text):
+
+Inline-style:
+![alt text](https://github.com/autopilotcode/2_CSS_Confident/blob/main/favicon.png "Alt text 1")
+
+Reference-style:
+![alt text][favicon]
+
+[favicon]: https://github.com/autopilotcode/2_CSS_Confident/blob/main/favicon.png "Alt text 2"
+```
+Favicon from 2_CSS_Confident project (hover over to see the alt text):
+
+Inline-style:
+![alt text](https://github.com/autopilotcode/2_CSS_Confident/blob/main/favicon.png "Alt text 1")
+
+Reference-style:
+![alt text][favicon]
+
+[favicon]: https://github.com/autopilotcode/2_CSS_Confident/blob/main/favicon.png "Alt text 2"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
