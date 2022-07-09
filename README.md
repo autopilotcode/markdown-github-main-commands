@@ -122,9 +122,19 @@ Simple text.
 
 > This is a long text that will be quoted when it wraps. The text can be any length, that's why I'm still writing the second sentence of this blockquote. As long the text as better example we have.
 
+# Inline HTML
+```
+<h3>Header 3</h3>
+<p>and paragraph is here.</p>
 
+<h3>Markdown not the best solution for HTML.</h3>
+<p><b>Use </b>*HTML* <i>tags </i>**instead.**</p>
+```
+<h3>Header 3</h3>
+<p>and paragraph is here.</p>
 
-
+<h3>Markdown not the best solution for HTML.</h3>
+<p><b>Use </b>*HTML* <i>tags </i>**instead.**</p>
 
 
 
