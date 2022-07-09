@@ -105,8 +105,22 @@ Reference-style:
 [favicon]: https://github.com/autopilotcode/2_CSS_Confident/blob/main/favicon.png "Alt text 2"
 
 
+# Blockquotes
+```
+> Blockquotes are good for emphasizing the text.
+> This is the part of the same quote.
 
+Simple text.
 
+> This is a long text that will be quoted when it wraps. The text can be any length, that's why I'm still writing the second sentence of this blockquote. As long the text as better example we have.
+
+```
+> Blockquotes are good for emphasizing the text.
+> This is the part of the same quote.
+
+Simple text.
+
+> This is a long text that will be quoted when it wraps. The text can be any length, that's why I'm still writing the second sentence of this blockquote. As long the text as better example we have.
 
 
 
