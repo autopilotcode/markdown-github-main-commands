@@ -34,7 +34,7 @@ Two tildes = strikethrough. ~~Scratch this.~~
 
 Italic *asterics* or _underscores_. 
 
-Bold **asterics** or _underscores__.
+Bold **asterics** or __underscores__.
 
 Combined highlightning *asterics or __underscores__.*
 
